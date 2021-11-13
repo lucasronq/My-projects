@@ -17,7 +17,7 @@ void maiorNumero:: entradaDados(){
     
     cout << "Digite o primeiro número: ";
     cin >> n1;
-    cout << "\nDigite o segundo número: ";
+    cout << "\nDigite o segundo número varios números: ";
     cin >> n2;
     cout << "\nDigite o terceiro número: ";
     cin >> n3;
